@@ -1,0 +1,5584 @@
+fileFormatVersion: 2
+guid: b752179827ca3bd42981fe3a68bf06d1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1469909079130451432
+    second: paper_0
+  - first:
+      213: 197365064318839064
+    second: paper_1
+  - first:
+      213: -7186650398474739211
+    second: paper_2
+  - first:
+      213: -5601353932033738763
+    second: paper_3
+  - first:
+      213: -3405786117551250796
+    second: paper_4
+  - first:
+      213: -2338786835708944023
+    second: paper_5
+  - first:
+      213: 7710351042111229419
+    second: paper_6
+  - first:
+      213: -8683789240413663659
+    second: paper_7
+  - first:
+      213: 2677215216797294159
+    second: paper_8
+  - first:
+      213: -5060158339258717265
+    second: paper_9
+  - first:
+      213: -7616242876795138719
+    second: paper_10
+  - first:
+      213: 7836262184723891484
+    second: paper_11
+  - first:
+      213: 8701664283796687517
+    second: paper_12
+  - first:
+      213: 1538555219788009976
+    second: paper_13
+  - first:
+      213: -7635686619843540994
+    second: paper_14
+  - first:
+      213: -3276437846194743788
+    second: paper_15
+  - first:
+      213: 3637378056611991484
+    second: paper_16
+  - first:
+      213: 6228923135586990434
+    second: paper_17
+  - first:
+      213: -2997197455695085282
+    second: paper_18
+  - first:
+      213: -1833974072682332651
+    second: paper_19
+  - first:
+      213: -4830243500259097839
+    second: paper_20
+  - first:
+      213: 5100102788289665964
+    second: paper_21
+  - first:
+      213: -157160099785295563
+    second: paper_22
+  - first:
+      213: 4781219323392954472
+    second: paper_23
+  - first:
+      213: 3974086856091533730
+    second: paper_24
+  - first:
+      213: -3381354885373768071
+    second: paper_25
+  - first:
+      213: 8100127263780986415
+    second: paper_26
+  - first:
+      213: 810437322184886883
+    second: paper_27
+  - first:
+      213: -6320126323980156431
+    second: paper_28
+  - first:
+      213: 7662154578446316636
+    second: paper_29
+  - first:
+      213: 8265875677967022553
+    second: paper_30
+  - first:
+      213: -4318037444405017448
+    second: paper_31
+  - first:
+      213: -2448931494247925678
+    second: paper_32
+  - first:
+      213: 6891301624346426965
+    second: paper_33
+  - first:
+      213: 3440787750794966244
+    second: paper_34
+  - first:
+      213: -7571349903863466637
+    second: paper_35
+  - first:
+      213: 5470482574772557192
+    second: paper_36
+  - first:
+      213: -1083865528583291592
+    second: paper_37
+  - first:
+      213: -3752349024692346552
+    second: paper_38
+  - first:
+      213: 5930771517934102379
+    second: paper_39
+  - first:
+      213: -347119357229734432
+    second: paper_40
+  - first:
+      213: 7148096032590767609
+    second: paper_41
+  - first:
+      213: -3218102341967142990
+    second: paper_42
+  - first:
+      213: 2129752653759397401
+    second: paper_43
+  - first:
+      213: 5886702134645349985
+    second: paper_44
+  - first:
+      213: 1785050396304768636
+    second: paper_45
+  - first:
+      213: -7404114960351765490
+    second: paper_46
+  - first:
+      213: -7687342146377330924
+    second: paper_47
+  - first:
+      213: 8111492342317596688
+    second: paper_48
+  - first:
+      213: 8669282234165416006
+    second: paper_49
+  - first:
+      213: 8315942439905765163
+    second: paper_50
+  - first:
+      213: -4321022521595286762
+    second: paper_51
+  - first:
+      213: 7675418649807909419
+    second: paper_52
+  - first:
+      213: -7101967338438942029
+    second: paper_53
+  - first:
+      213: -1065961634134459607
+    second: paper_54
+  - first:
+      213: 1024608533987700744
+    second: paper_55
+  - first:
+      213: -4899190379576004097
+    second: paper_56
+  - first:
+      213: 9004045767739979158
+    second: paper_57
+  - first:
+      213: -8027480834414349250
+    second: paper_58
+  - first:
+      213: -5075809923863751757
+    second: paper_59
+  - first:
+      213: -575537664900533060
+    second: paper_60
+  - first:
+      213: -4452703595671765891
+    second: paper_61
+  - first:
+      213: -1569325158731892376
+    second: paper_62
+  - first:
+      213: 8748156763348252542
+    second: paper_63
+  - first:
+      213: 642154025756985871
+    second: paper_64
+  - first:
+      213: 4248708536881443164
+    second: paper_65
+  - first:
+      213: 6454844208996528158
+    second: paper_66
+  - first:
+      213: 2538188659069275000
+    second: paper_67
+  - first:
+      213: -6615740180066057299
+    second: paper_68
+  - first:
+      213: 8258104455962394358
+    second: paper_69
+  - first:
+      213: 7975717581322559665
+    second: paper_70
+  - first:
+      213: -3713400473714836307
+    second: paper_71
+  - first:
+      213: 2246075816382982194
+    second: paper_72
+  - first:
+      213: -8010324303407657786
+    second: paper_73
+  - first:
+      213: 7947230313939738208
+    second: paper_74
+  - first:
+      213: 9095680142728275464
+    second: paper_75
+  - first:
+      213: 6319833082631420166
+    second: paper_76
+  - first:
+      213: 6660186853725173307
+    second: paper_77
+  - first:
+      213: 6880862383820688278
+    second: paper_78
+  - first:
+      213: 8304881991149845957
+    second: paper_79
+  - first:
+      213: -3354803586910823263
+    second: paper_80
+  - first:
+      213: -8877555268355755887
+    second: paper_81
+  - first:
+      213: 458501318904342906
+    second: paper_82
+  - first:
+      213: 8259583417899485895
+    second: paper_83
+  - first:
+      213: -3227960615390016729
+    second: paper_84
+  - first:
+      213: 4997337320804715572
+    second: paper_85
+  - first:
+      213: -1869358734009514351
+    second: paper_86
+  - first:
+      213: 7994131362840593689
+    second: paper_87
+  - first:
+      213: -798440504061598398
+    second: paper_88
+  - first:
+      213: 5262879259010575288
+    second: paper_89
+  - first:
+      213: 4189606448902441000
+    second: paper_90
+  - first:
+      213: -4286312956435145419
+    second: paper_91
+  - first:
+      213: -7715941404678319090
+    second: paper_92
+  - first:
+      213: 2132833886695009824
+    second: paper_93
+  - first:
+      213: -8451616035668468185
+    second: paper_94
+  - first:
+      213: 5466332419857623398
+    second: paper_95
+  - first:
+      213: 1165756986666249967
+    second: paper_96
+  - first:
+      213: -2613085735619577744
+    second: paper_97
+  - first:
+      213: -7209409057031126842
+    second: paper_98
+  - first:
+      213: -5489162181045647689
+    second: paper_99
+  - first:
+      213: -1876349838738147342
+    second: paper_100
+  - first:
+      213: 8460549505261533884
+    second: paper_101
+  - first:
+      213: -8306654190042016715
+    second: paper_102
+  - first:
+      213: -8640945705332281944
+    second: paper_103
+  - first:
+      213: 6127765376417706126
+    second: paper_104
+  - first:
+      213: -2722908423558264241
+    second: paper_105
+  - first:
+      213: 7452900347865510479
+    second: paper_106
+  - first:
+      213: 253963519898435510
+    second: paper_107
+  - first:
+      213: -5106818445967603116
+    second: paper_108
+  - first:
+      213: -7226947588320191020
+    second: paper_109
+  - first:
+      213: -745108586592172057
+    second: paper_110
+  - first:
+      213: -8576161335093942696
+    second: paper_111
+  - first:
+      213: -4742403951107866142
+    second: paper_112
+  - first:
+      213: -990634929797198098
+    second: paper_113
+  - first:
+      213: 1486229249438841085
+    second: paper_114
+  - first:
+      213: 6355684498199402729
+    second: paper_115
+  - first:
+      213: -8521815249991604516
+    second: paper_116
+  - first:
+      213: -1163023063122699473
+    second: paper_117
+  - first:
+      213: -4797586453431736165
+    second: paper_118
+  - first:
+      213: -7401882572040620773
+    second: paper_119
+  - first:
+      213: -167978058595324553
+    second: paper_120
+  - first:
+      213: 4358014028395948678
+    second: paper_121
+  - first:
+      213: 919482475631034425
+    second: paper_122
+  - first:
+      213: 1630812600672962464
+    second: paper_123
+  - first:
+      213: -1642040069158298205
+    second: paper_124
+  - first:
+      213: 2815916578837417257
+    second: paper_125
+  - first:
+      213: 4738573155710324077
+    second: paper_126
+  - first:
+      213: 6087618898275728912
+    second: paper_127
+  - first:
+      213: 5428115985862453272
+    second: paper_128
+  - first:
+      213: 638734159702269077
+    second: paper_129
+  - first:
+      213: 5950140652326299529
+    second: paper_130
+  - first:
+      213: -7657473619574841716
+    second: paper_131
+  - first:
+      213: 9098971271210070632
+    second: paper_132
+  - first:
+      213: -7306075774194020173
+    second: paper_133
+  - first:
+      213: -8304805312620007784
+    second: paper_134
+  - first:
+      213: 3043174969174574094
+    second: paper_135
+  - first:
+      213: 5462062656598288273
+    second: paper_136
+  - first:
+      213: 3540798416924461978
+    second: paper_137
+  - first:
+      213: -649720571011280872
+    second: paper_138
+  - first:
+      213: 5039776877321502883
+    second: paper_139
+  - first:
+      213: -3626559249937214350
+    second: paper_140
+  - first:
+      213: 5877810664053432198
+    second: paper_141
+  - first:
+      213: 2582675773045554834
+    second: paper_142
+  - first:
+      213: -2793613203119447781
+    second: paper_143
+  - first:
+      213: 3092097786427974728
+    second: paper_144
+  - first:
+      213: -5040176325956886502
+    second: paper_145
+  - first:
+      213: -6890278798458061893
+    second: paper_146
+  - first:
+      213: 6816088972809966889
+    second: paper_147
+  - first:
+      213: 8320683684738580696
+    second: paper_148
+  - first:
+      213: -1278188172238361058
+    second: paper_149
+  - first:
+      213: -3611215781996557861
+    second: paper_150
+  - first:
+      213: 7366737357019865660
+    second: paper_151
+  - first:
+      213: -9074467921488952055
+    second: paper_152
+  - first:
+      213: -6225425398586779076
+    second: paper_153
+  - first:
+      213: -1744644088541673623
+    second: paper_154
+  - first:
+      213: 8629672590421846417
+    second: paper_155
+  - first:
+      213: 1879776079579359602
+    second: paper_156
+  - first:
+      213: -6501578412122753769
+    second: paper_157
+  - first:
+      213: 6465037702092621746
+    second: paper_158
+  - first:
+      213: 8907926814603892024
+    second: paper_159
+  - first:
+      213: -6646566429084519827
+    second: paper_160
+  - first:
+      213: -2250943921508163426
+    second: paper_161
+  - first:
+      213: 5660389859414181075
+    second: paper_162
+  - first:
+      213: -7665504384790685441
+    second: paper_163
+  - first:
+      213: 2669232982033594332
+    second: paper_164
+  - first:
+      213: 3378872501203066331
+    second: paper_165
+  - first:
+      213: -2815355936771439072
+    second: paper_166
+  - first:
+      213: 6889851479768408979
+    second: paper_167
+  - first:
+      213: -4223820770967602343
+    second: paper_168
+  - first:
+      213: -2828439287837391954
+    second: paper_169
+  - first:
+      213: 8280590225214200656
+    second: paper_170
+  - first:
+      213: 7263691044726483044
+    second: paper_171
+  - first:
+      213: -4916289092649004946
+    second: paper_172
+  - first:
+      213: -5817123747686033001
+    second: paper_173
+  - first:
+      213: -1487743250898535940
+    second: paper_174
+  - first:
+      213: 1099885222718119832
+    second: paper_175
+  - first:
+      213: -5040103293773893851
+    second: paper_176
+  - first:
+      213: 7072430778966728467
+    second: paper_177
+  - first:
+      213: 8565765327434630535
+    second: paper_178
+  - first:
+      213: -5504549673800050821
+    second: paper_179
+  - first:
+      213: -5616912005436217341
+    second: paper_180
+  - first:
+      213: -6681865225678201884
+    second: paper_181
+  - first:
+      213: 4803106123865508961
+    second: paper_182
+  - first:
+      213: -8855342254148601162
+    second: paper_183
+  - first:
+      213: -6840961743305162920
+    second: paper_184
+  - first:
+      213: 3347130519779203265
+    second: paper_185
+  - first:
+      213: -6648774668524491699
+    second: paper_186
+  - first:
+      213: -7714929309306022739
+    second: paper_187
+  - first:
+      213: -4429183694329159490
+    second: paper_188
+  - first:
+      213: -2504210864725262319
+    second: paper_189
+  - first:
+      213: 2034220990826359551
+    second: paper_190
+  - first:
+      213: 4647968415688390970
+    second: paper_191
+  - first:
+      213: 2244166814210374972
+    second: paper_192
+  - first:
+      213: -767897392470998600
+    second: paper_193
+  - first:
+      213: -4300658353129492204
+    second: paper_194
+  - first:
+      213: -2758156893767068384
+    second: paper_195
+  - first:
+      213: -2059511897112383287
+    second: paper_196
+  - first:
+      213: -3287253244806814712
+    second: paper_197
+  - first:
+      213: -8048392556078670010
+    second: paper_198
+  - first:
+      213: -377234388374372283
+    second: paper_199
+  - first:
+      213: 3385850229189432295
+    second: paper_200
+  - first:
+      213: 5644135915531302327
+    second: paper_201
+  - first:
+      213: -8618067419667612748
+    second: paper_202
+  - first:
+      213: 2540512940647490645
+    second: paper_203
+  - first:
+      213: -6235498180351755554
+    second: paper_204
+  - first:
+      213: 5850111341043111677
+    second: paper_205
+  - first:
+      213: -421092126753671885
+    second: paper_206
+  - first:
+      213: 3154084778767479822
+    second: paper_207
+  - first:
+      213: -7005852529602848159
+    second: paper_208
+  - first:
+      213: -8349993851835054410
+    second: paper_209
+  - first:
+      213: -5289223402861495847
+    second: paper_210
+  - first:
+      213: 5723101969923437948
+    second: paper_211
+  - first:
+      213: 8682070873214150415
+    second: paper_212
+  - first:
+      213: -1487238436487943332
+    second: paper_213
+  - first:
+      213: -4843868750681598852
+    second: paper_214
+  - first:
+      213: -2581926441431394306
+    second: paper_215
+  - first:
+      213: 1498845063231252465
+    second: paper_216
+  - first:
+      213: -7565744292305896548
+    second: paper_217
+  - first:
+      213: -6182187034328246457
+    second: paper_218
+  - first:
+      213: -82432154403292483
+    second: paper_219
+  - first:
+      213: -2795950427168658134
+    second: paper_220
+  - first:
+      213: -2895363194182684547
+    second: paper_221
+  - first:
+      213: 3310831194844057471
+    second: paper_222
+  - first:
+      213: -1859508192306298848
+    second: paper_223
+  - first:
+      213: 3595305594632601397
+    second: paper_224
+  - first:
+      213: -5674405723576280423
+    second: paper_225
+  - first:
+      213: -5075456179923058543
+    second: paper_226
+  - first:
+      213: 7469910203817493702
+    second: paper_227
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: paper_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2392
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411a93d7a2eaafd48838ca9b600e3246
+      internalID: -1469909079130451432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 2392
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210333ccda43c7f4abf2125abb132396
+      internalID: 197365064318839064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2392
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d271523216154994ea45047806b21e70
+      internalID: -7186650398474739211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_3
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2392
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d873e3601c7f24a87647ff3ccbec6a
+      internalID: -5601353932033738763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_4
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2392
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d320184a61e386a4786d838336fbf8ea
+      internalID: -3405786117551250796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_5
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2392
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10616b6b788cac341bb96fe00014c275
+      internalID: -2338786835708944023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_6
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2392
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec41717fd87be5c46baefc4bb90aca1e
+      internalID: 7710351042111229419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_7
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 2392
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dff26601a85dfb4d864ca964fbf80e1
+      internalID: -8683789240413663659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_8
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2392
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75cab1c9ec742e4428898e83f01d1bba
+      internalID: 2677215216797294159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_9
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2392
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9317a83f08c7147a700b0ef485611e
+      internalID: -5060158339258717265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_10
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2392
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74023e151e86b1943ae83528ee3e5ae9
+      internalID: -7616242876795138719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_11
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 2392
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0421c27f817c0549a5be3d57b075184
+      internalID: 7836262184723891484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_12
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2392
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e558351497f8e418a3ef231e9df347
+      internalID: 8701664283796687517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_13
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 2392
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3a755082cde5b468de13a1869f8141
+      internalID: 1538555219788009976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_14
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 2392
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06de65dd3f5ab5340b2bcaacf7a00a7a
+      internalID: -7635686619843540994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_15
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2392
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31160be8ef3e7d349b895988113391f2
+      internalID: -3276437846194743788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_16
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2392
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509f10c51b71cfa40b9bf949ea10c865
+      internalID: 3637378056611991484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_17
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 2392
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e4331a0c502f54493b0341f35b9809
+      internalID: 6228923135586990434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_18
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2392
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f23ffdc19b24d849935a28df5952e9c
+      internalID: -2997197455695085282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2192
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d009d4b33dd544ab3be7416911df16
+      internalID: -1833974072682332651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_20
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 2192
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a350f4758631b47478243ea7c9e4e0ab
+      internalID: -4830243500259097839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_21
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2192
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4ad00e7a0a9f74cbaf8320a24c11e3
+      internalID: 5100102788289665964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_22
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2192
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92003a5b6d2e2ce4a99c7c97ee017016
+      internalID: -157160099785295563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_23
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2192
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438c6e4b7a9d81847a9b2c198caeea60
+      internalID: 4781219323392954472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_24
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2192
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4b011b3e531c64d804268b84173ebf
+      internalID: 3974086856091533730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_25
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2192
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27f2bd8b77d7bc48930c42818f76152
+      internalID: -3381354885373768071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_26
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 2192
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad79f0b42fb45145ba98c9aad8253dc
+      internalID: 8100127263780986415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_27
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2192
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9fa03c3f7f28d447847ca3dd28a0be1
+      internalID: 810437322184886883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_28
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2192
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a11dd32ad400444cbbeae4744cb133a
+      internalID: -6320126323980156431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_29
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2192
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a3c8211ec1ec048b77151b347b6b03
+      internalID: 7662154578446316636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_30
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 2192
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d4a6a7e56d5f64886b74e4f3f57e25
+      internalID: 8265875677967022553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_31
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2192
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9cfd85d4744e74d9f0cb259b3674bf
+      internalID: -4318037444405017448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_32
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 2192
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d612bf04b727e746874078fa0470bcf
+      internalID: -2448931494247925678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_33
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 2192
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3165714aa5064c94e8d9cf0baf973df1
+      internalID: 6891301624346426965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_34
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2192
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6bc8308f0a45b147b07793d070f7965
+      internalID: 3440787750794966244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_35
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2192
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35e4012b4e9676459ceb3503f21c8eb
+      internalID: -7571349903863466637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_36
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 2192
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf3c6d1195f4fd46944f0d2185956fb
+      internalID: 5470482574772557192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_37
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2192
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0611e1445670d834ba4b489f7de3ecfc
+      internalID: -1083865528583291592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1992
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd65d9bf31e91da4c836e56766a27501
+      internalID: -3752349024692346552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_39
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1992
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfda5f9aa5d39d04093859830308b236
+      internalID: 5930771517934102379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_40
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1992
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8f65682cac6df4abf2c0566aab0d79
+      internalID: -347119357229734432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_41
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1992
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b3d5264cf5fda47a0116f7c58b7603
+      internalID: 7148096032590767609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_42
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1992
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c593c4b9b3285540838e58c838ac821
+      internalID: -3218102341967142990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_43
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1992
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb0c2fc0d411614d907d664378b9788
+      internalID: 2129752653759397401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_44
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1992
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd441c32b350354fa7c4d34ee5cdc0b
+      internalID: 5886702134645349985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_45
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1992
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a342aaf0f77cb404ba3a266eece9ad2b
+      internalID: 1785050396304768636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_46
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1992
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88858239c9b030440b5ade764ea46e5c
+      internalID: -7404114960351765490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_47
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1992
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6d4248e4ef1b34dbad4dd5055e6702
+      internalID: -7687342146377330924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_48
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1992
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af38429d0e21c5545a63399eefc523b8
+      internalID: 8111492342317596688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_49
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 1992
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb581e0379c3b84ab11f4c2bfe4288a
+      internalID: 8669282234165416006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_50
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1992
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4397ef2935566448a8dde3665f33ba
+      internalID: 8315942439905765163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_51
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 1992
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5060aa4c176fb8449925ac40b2555f9b
+      internalID: -4321022521595286762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_52
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 1992
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96326eccd7fd8f640995d88157fd6a47
+      internalID: 7675418649807909419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_53
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1992
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4c71249d8da0546bd38467e9cc185c
+      internalID: -7101967338438942029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_54
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1992
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50188ccb9856b3442a0bb27414206fbe
+      internalID: -1065961634134459607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_55
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 1992
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ddce7790b516d48b73feb3ebb07b84
+      internalID: 1024608533987700744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_56
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1992
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8906f35a2dd4743b22e97aedfcdc24
+      internalID: -4899190379576004097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1792
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa3d13ec5b9ba34bb89ce93a51f062d
+      internalID: 9004045767739979158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_58
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1792
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b699faac429e2478edb5281de96bb6
+      internalID: -8027480834414349250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_59
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1792
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de92ad71231c9d04d850b1c8e85ab86a
+      internalID: -5075809923863751757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_60
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1792
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3752bd42b1f35d74babe9a3167383d70
+      internalID: -575537664900533060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_61
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1792
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5637673c6c9d0394d9c148d8c4f09408
+      internalID: -4452703595671765891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_62
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1792
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b427c8a10defa94ebcaf57e2ebfb6b5
+      internalID: -1569325158731892376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_63
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1792
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9077c8a8638a154ab1447bcc38e4949
+      internalID: 8748156763348252542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_64
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1792
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61cdff9d77243aa40a34f55791037a9f
+      internalID: 642154025756985871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_65
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1792
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31634652f15ebbc4a8589762fe301042
+      internalID: 4248708536881443164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_66
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1792
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e9178027bab84488e0325ee33157c3
+      internalID: 6454844208996528158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_67
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1792
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf1887c1a4b80a4f8b51e0c675f1882
+      internalID: 2538188659069275000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_68
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 1792
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835c1d11b33e7c749acb5fdf1f3d613e
+      internalID: -6615740180066057299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_69
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1792
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b67ae6f4ab5967468154840c8540261
+      internalID: 8258104455962394358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_70
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 1792
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21887be04c13b0b42a43becfb1b1f3ae
+      internalID: 7975717581322559665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_71
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 1792
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9139845cc805d8488bed2a510834f92
+      internalID: -3713400473714836307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_72
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1792
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5e76ebcb9d8714ab555c5e6fb1fb73
+      internalID: 2246075816382982194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_73
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1792
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0805ecb337003cd41b196c59b1fa2834
+      internalID: -8010324303407657786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_74
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 1792
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0dfc2bb9a2cbc4fae8f9567652c0e1
+      internalID: 7947230313939738208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_75
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1792
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40bd98ce387bf6b47a1d5d0a3c5bed41
+      internalID: 9095680142728275464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1592
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffaf7a22556eba84ab6c90cb8330b481
+      internalID: 6319833082631420166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_77
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1592
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dcb7f28fa6f10b448dc893b514e0bc7
+      internalID: 6660186853725173307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_78
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1592
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d6a9f29e3f5984a81366d78278e1a2
+      internalID: 6880862383820688278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_79
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1592
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08cb6c3e7ccfcef428943a3e1970103d
+      internalID: 8304881991149845957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_80
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1592
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63963ade0ee65745b8d988b82f5502c
+      internalID: -3354803586910823263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_81
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1592
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4c1a259458426429497708e11f6856
+      internalID: -8877555268355755887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_82
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1592
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078b891ca2b1c744287ad69ffee3e8fa
+      internalID: 458501318904342906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_83
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1592
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67109e14ca4a074c8e55537bce520d6
+      internalID: 8259583417899485895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_84
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1592
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2067d43262453ff47840ffe8317f0297
+      internalID: -3227960615390016729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_85
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1592
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8035417b1cec9b8409361c62348d45d5
+      internalID: 4997337320804715572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_86
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1592
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e743881abfc57246afee0c96e70d643
+      internalID: -1869358734009514351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_87
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 1592
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3dd6d06ae3408f458110dd9d00c8fb3
+      internalID: 7994131362840593689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_88
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1592
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11a1228fe777e84a93f7d27d74ab47f
+      internalID: -798440504061598398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_89
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 1592
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddefdf302a6f6234dbb6b2fd3fd6500b
+      internalID: 5262879259010575288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_90
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 1592
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7535b0e191ea747af2a99e1845a5ef
+      internalID: 4189606448902441000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_91
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1592
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920865a9cbcf40a4ba9f6fdd772203a0
+      internalID: -4286312956435145419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_92
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1592
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0d25b840bdb2e4392fb94dec25e6e0
+      internalID: -7715941404678319090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_93
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 1592
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef9afd810bbdf64abd7c73abf583a9a
+      internalID: 2132833886695009824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_94
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1592
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8381db51e0a1f4a81bbc5a8ff14406
+      internalID: -8451616035668468185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1392
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d141c8d17fe3ecc41b5581133372544e
+      internalID: 5466332419857623398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_96
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1392
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05c0cff628f9d94eadb49b02865ce91
+      internalID: 1165756986666249967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_97
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1392
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e50b5b20dec4604ab0751cb6380fe6e
+      internalID: -2613085735619577744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_98
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1392
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc76bff4a975f2a4eae2562004d27483
+      internalID: -7209409057031126842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_99
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1392
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520d18f92ca856e408a13968198ebf8a
+      internalID: -5489162181045647689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_100
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1392
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f871e4957c41d4c91c43585c435812
+      internalID: -1876349838738147342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_101
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1392
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35113c035bdd00e4b8075c468353bae1
+      internalID: 8460549505261533884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_102
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1392
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45d8ce2ec0281540ae33d04ef220c58
+      internalID: -8306654190042016715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_103
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1392
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c17090650ea874d94673509d0b7d69
+      internalID: -8640945705332281944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_104
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1392
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b1f41d4d10d804397ca1bf4d19d975
+      internalID: 6127765376417706126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_105
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1392
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1c6ffa5de337743be4c9335e466b83
+      internalID: -2722908423558264241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_106
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 1392
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a042e30bf001044997108bd9040fd7
+      internalID: 7452900347865510479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_107
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1392
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7adb677053b3324f8380c4cef98c900
+      internalID: 253963519898435510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_108
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 1392
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a003087989811d47ab2e85fe243efc9
+      internalID: -5106818445967603116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_109
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 1392
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a78c65585a1db4cade703706dc79b4
+      internalID: -7226947588320191020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_110
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1392
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df68282c17db234688c3653dc0b81f0
+      internalID: -745108586592172057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_111
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1392
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d75751f9c531146acbdde007f9bbf1
+      internalID: -8576161335093942696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_112
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 1392
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e240962295fc84ab7c1ae24649cf63
+      internalID: -4742403951107866142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_113
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1392
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138abba1301781d4ab6980ff003d347c
+      internalID: -990634929797198098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1192
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c0694bf92647d49a8145e30049c653
+      internalID: 1486229249438841085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_115
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1192
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0b47a7d6b23754984f436aadf450e0
+      internalID: 6355684498199402729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_116
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1192
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a864379cb622c243a7da3b75f137809
+      internalID: -8521815249991604516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_117
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1192
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99965bfe34e616a46830e0fe6d21672c
+      internalID: -1163023063122699473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_118
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1192
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38fe451f166fae48871afec6a784199
+      internalID: -4797586453431736165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_119
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1192
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25481da5cb0f8dc49b5557050f52fd68
+      internalID: -7401882572040620773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_120
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1192
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0095604ad5c244cb30a3e076616f7b
+      internalID: -167978058595324553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_121
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1192
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce1e085c4c3973498f2461cdf8df19e
+      internalID: 4358014028395948678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_122
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1192
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82399765b0abe841b6debbddc178c30
+      internalID: 919482475631034425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_123
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1192
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6803bed966d46e24ea293e13dfbbcaa1
+      internalID: 1630812600672962464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_124
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1192
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe25374ed82f3743b5a872831f9e5f0
+      internalID: -1642040069158298205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_125
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 1192
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307463da62205b2489f353f5304f67bb
+      internalID: 2815916578837417257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_126
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1192
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52958605d6adc16409209fc967db23cc
+      internalID: 4738573155710324077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_127
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 1192
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f045d1bff16bf4fb6b717798de99cd
+      internalID: 6087618898275728912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_128
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 1192
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d017fe9a2765014da816e17729555d1
+      internalID: 5428115985862453272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_129
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1192
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8634e0af4101a4181efef9a31071b2
+      internalID: 638734159702269077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_130
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1192
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b1f2abe33c44b4daeedbdb8a9deca0
+      internalID: 5950140652326299529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_131
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 1192
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cbe7ceb81d50df45b3bc5248b95bbcf
+      internalID: -7657473619574841716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_132
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1192
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df9bd0a3f3ae6d46b942eb21ded4dc7
+      internalID: 9098971271210070632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 992
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590afe878bbbbb14f8e7dcc682a1c3c9
+      internalID: -7306075774194020173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_134
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 992
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca0fc7e1db49344b898d59f644a874b
+      internalID: -8304805312620007784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_135
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 992
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6498f66334bcb8242849315fa348e3fa
+      internalID: 3043174969174574094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_136
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 992
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73adc04e6d3d2f144af952a45fa9f981
+      internalID: 5462062656598288273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_137
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 992
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83522e953b4c3446a3bf059765da9a1
+      internalID: 3540798416924461978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_138
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 992
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c7d26dd8dabb54c9af43a82744bfc7
+      internalID: -649720571011280872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_139
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 992
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7658c8fed9669c545a1ba053845bcccb
+      internalID: 5039776877321502883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_140
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 992
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8391ad21cbfae45b2d6fb897030887
+      internalID: -3626559249937214350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_141
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 992
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2e4dd8590e86d41a93cffa90c0ea0e
+      internalID: 5877810664053432198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_142
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 992
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac3ba7f4de0fda4c8cf4a1654428646
+      internalID: 2582675773045554834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_143
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 992
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db22cd9debb212c47bb4502dbc0af4b8
+      internalID: -2793613203119447781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_144
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 992
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ad8804dd514f94ca1ce19b6033430f
+      internalID: 3092097786427974728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_145
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 992
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d89fdde0213a64e85602e2350aa483
+      internalID: -5040176325956886502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_146
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 992
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9d054ff3832eb42ad91f230e63b475
+      internalID: -6890278798458061893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_147
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 992
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2c866951ed5854185d8b717c9f3a7a
+      internalID: 6816088972809966889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_148
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 992
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102fd8f1a01a7ab4e8bac5323674f5cc
+      internalID: 8320683684738580696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_149
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 992
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a37c68a99c78f41bf7b9db4144746e
+      internalID: -1278188172238361058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_150
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 992
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc7b224fd39ba64f80c8e680994ad22
+      internalID: -3611215781996557861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_151
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 992
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2c357cc72c3454f97c19c2507e9e6a
+      internalID: 7366737357019865660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_152
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 792
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca490e361ff2ec34baa294cd4657b849
+      internalID: -9074467921488952055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_153
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 792
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62274d8f14eec14aa1501f0d1cafaa0
+      internalID: -6225425398586779076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_154
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 792
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94bfe2c7ec21e6438ccbd6f5cc4d01c
+      internalID: -1744644088541673623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_155
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 792
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca97d567bd39ea342bc2308c11956f9c
+      internalID: 8629672590421846417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_156
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 792
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c174efacc35fdee44b5c8bdf530f60c2
+      internalID: 1879776079579359602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_157
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 792
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76bb54c26b9a0dd488bd0c7f6aaeb993
+      internalID: -6501578412122753769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_158
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 792
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b9a12ef9d71624ab56e53ef76b34d3
+      internalID: 6465037702092621746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_159
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 792
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0753139cfe854534ba5f524e141177b0
+      internalID: 8907926814603892024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_160
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 792
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d19c12a9f3a8524a855c76d28787a04
+      internalID: -6646566429084519827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_161
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 792
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174ad2c1cb2baaa4ca3ec808895df54e
+      internalID: -2250943921508163426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_162
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 792
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a4471598ab3fd4bb1b59f6cb015f48
+      internalID: 5660389859414181075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_163
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 792
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c1fdbb34c33a3458ca767c0860bda3
+      internalID: -7665504384790685441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_164
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 792
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1588b79a0c33bf74f972a2c35757ac39
+      internalID: 2669232982033594332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_165
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 792
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a11937f15677a47b1894e68376fb6a
+      internalID: 3378872501203066331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_166
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 792
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3a46fdcbd997546a4816ef46e43946
+      internalID: -2815355936771439072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_167
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 792
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5621577c362884a97817b0db2d33e4
+      internalID: 6889851479768408979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_168
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 792
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384b390bed84c1240a76fece442ede8e
+      internalID: -4223820770967602343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_169
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 792
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3484273b61363904d907fad582caf30f
+      internalID: -2828439287837391954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_170
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 792
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54057b57bf194894a9ad43e5c79089cf
+      internalID: 8280590225214200656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_171
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 592
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57073be908968494b9fecb3201baa971
+      internalID: 7263691044726483044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_172
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 592
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67b6aa625d81754b90aaf75c691e11f
+      internalID: -4916289092649004946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_173
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 592
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f64db207c4bb114a87eb72fc3dbe292
+      internalID: -5817123747686033001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_174
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 592
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762be13bb94a9b8498984813e0a84b6a
+      internalID: -1487743250898535940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_175
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 592
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba25c5efab631e4080039a9de0fa3ea
+      internalID: 1099885222718119832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_176
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 592
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84cc42d28e486a549aad8a03119cf553
+      internalID: -5040103293773893851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_177
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 592
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c448592bd719bbe42bb678df66b0d977
+      internalID: 7072430778966728467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_178
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 592
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7eb67fb60e4d84abfbfcbfd61d5b07
+      internalID: 8565765327434630535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_179
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 592
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a86be8eeaad10946bc98cc72aaf235e
+      internalID: -5504549673800050821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_180
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 592
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470fc884594daae44b38af3172ee6494
+      internalID: -5616912005436217341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_181
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 592
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5353054c01628324dae8f61b8c40c346
+      internalID: -6681865225678201884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_182
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 592
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38692b7ac584a5a4eb5864faac49ca94
+      internalID: 4803106123865508961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_183
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 592
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf070dd59dbdaa49844fa0ff024415d
+      internalID: -8855342254148601162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_184
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 592
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2d340f87b71004f805c911a9502418
+      internalID: -6840961743305162920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_185
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 592
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3949b91a4f996744aa48bc407789e05b
+      internalID: 3347130519779203265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_186
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 592
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb503a6540bf5d4c92c5be5a798a6ba
+      internalID: -6648774668524491699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_187
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 592
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b09d4647a2b33a4294660ac35402c62
+      internalID: -7714929309306022739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_188
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 592
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0856007cbd39c141b88c98a5f094fd2
+      internalID: -4429183694329159490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_189
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 592
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636e2d63e69430442b7324c3515b546f
+      internalID: -2504210864725262319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_190
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 392
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1e669b91f15954bad9730a509a7816
+      internalID: 2034220990826359551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_191
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 392
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b1616afc2fe5840bad1835e47a19c4
+      internalID: 4647968415688390970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_192
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 392
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda86bd12cb635e4caaabbec5743e216
+      internalID: 2244166814210374972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_193
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 392
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e897328e9bf9742a8dd5b3f1292271
+      internalID: -767897392470998600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_194
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 392
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb80fe26accab74c936899d6d500be4
+      internalID: -4300658353129492204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_195
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 392
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b46b6a24efe0d04885a4ad24e4d9211
+      internalID: -2758156893767068384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_196
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 392
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b0b9986312d8e4e8ab0fb2a25a64f4
+      internalID: -2059511897112383287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_197
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 392
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affcefc67eedb074db40b31aedb52657
+      internalID: -3287253244806814712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_198
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 392
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978a196ff5ddc3449a7f37ce49ed5f95
+      internalID: -8048392556078670010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_199
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 392
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4153dfb654ea941abcefabb9be9ebd
+      internalID: -377234388374372283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_200
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 392
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd26da1e7e86dd244bf2057e3f031f0c
+      internalID: 3385850229189432295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_201
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 392
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa412573f519d744a54d74b8b73484b
+      internalID: 5644135915531302327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_202
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 392
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a9689b32fe2734a9f973184a3c6bf7
+      internalID: -8618067419667612748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_203
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 392
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d983239facd76d04db18df3c36f9db15
+      internalID: 2540512940647490645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_204
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 392
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57def42ac8fea184080226015c62ec16
+      internalID: -6235498180351755554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_205
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 392
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565015716fddb29419c89a9992fba05c
+      internalID: 5850111341043111677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_206
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 392
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf98f1e135e950d48967a516da9966a1
+      internalID: -421092126753671885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_207
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 392
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5dc48dfc67c214597512e14f7d428d
+      internalID: 3154084778767479822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_208
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 392
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9067d3a6422ab4fa7a5b4796a5e835
+      internalID: -7005852529602848159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_209
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc20afb4075b2e41bac60158ba1bd7c
+      internalID: -8349993851835054410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_210
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 192
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5906f5b2f14555d45b84d6125ab70251
+      internalID: -5289223402861495847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_211
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 192
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790ca6bcc3da4b04f922f1066ff39a19
+      internalID: 5723101969923437948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_212
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 192
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92fce7169d04eb046992676be70e573f
+      internalID: 8682070873214150415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_213
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 192
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900651ee04d1fa94e93e4dcd94fc2a6d
+      internalID: -1487238436487943332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_214
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 192
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f18afd4f6ee9a44a9e602111ed58f10
+      internalID: -4843868750681598852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_215
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 192
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3e3927fda5ebd4ea1d80384437a49b
+      internalID: -2581926441431394306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_216
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 192
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907c2e1f51c1bea4aa736cf8dd09fbbf
+      internalID: 1498845063231252465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_217
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 192
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2935d3f13aceabc4984f026e27bfdb8a
+      internalID: -7565744292305896548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_218
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 192
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97094220db154314cb449b9250cf5a8f
+      internalID: -6182187034328246457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_219
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 192
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2970a26a3b35e4744997659ce52e148c
+      internalID: -82432154403292483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_220
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 192
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41e321a369e3e4409e13ac1e3e8437e
+      internalID: -2795950427168658134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_221
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 192
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d7c37057c023e47958529891059927
+      internalID: -2895363194182684547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_222
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 192
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b6439bec083f74ebe32b25f26abcdc
+      internalID: 3310831194844057471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_223
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 192
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2619e8f723b6d459e50a54e7744b4e
+      internalID: -1859508192306298848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_224
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 192
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b921b8c00b95d4aaea3511be18e723
+      internalID: 3595305594632601397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_225
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 192
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7915a45a33bba498cf8882137d8f6b
+      internalID: -5674405723576280423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_226
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 192
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2669feb0aaca6534db859f35f7900804
+      internalID: -5075456179923058543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paper_227
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 192
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4469b96b48c55b41bb4822d135bdfc9
+      internalID: 7469910203817493702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e28748a6011f328488a08782c7181871
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
