@@ -71,8 +71,8 @@ public class PlayerControls : MonoBehaviour
         else
             velocity.x *= airDrag;
 
-        Debug.DrawRay(transform.position - new Vector3(groundCheckOffset.x, groundCheckOffset.y), Vector2.down);
-        Debug.DrawRay(transform.position - new Vector3(-groundCheckOffset.x, groundCheckOffset.y), Vector2.down);
+        // Debug.DrawRay(transform.position - new Vector3(groundCheckOffset.x, groundCheckOffset.y), Vector2.down);
+        // Debug.DrawRay(transform.position - new Vector3(-groundCheckOffset.x, groundCheckOffset.y), Vector2.down);
         RaycastHit2D left = Physics2D.Raycast(transform.position - new Vector3(groundCheckOffset.x, groundCheckOffset.y), Vector2.down, groundCheckDistance);
         RaycastHit2D right = Physics2D.Raycast(transform.position - new Vector3(-groundCheckOffset.x, groundCheckOffset.y), Vector2.down, groundCheckDistance);
         
