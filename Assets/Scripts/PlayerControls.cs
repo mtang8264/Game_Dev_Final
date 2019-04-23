@@ -35,14 +35,14 @@ public class PlayerControls : MonoBehaviour
     
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.W) && grounded && active)
+        if ((Input.GetKeyDown(KeyCode.W) || Input.GetKeyDown(KeyCode.UpArrow)) && grounded && active)
             jumpFlag = true;
 
-        if(Input.GetKey(KeyCode.D) && !Input.GetKey(KeyCode.A))
+        if((Input.GetKey(KeyCode.D) || Input.GetKey(KeyCode.RightArrow)) && !(Input.GetKey(KeyCode.A) || Input.GetKey(KeyCode.LeftArrow)))
         {
             animator.SetBool("direction", true);
         }
-        else if (!Input.GetKey(KeyCode.D) && Input.GetKey(KeyCode.A))
+        else if (!(Input.GetKey(KeyCode.D) || Input.GetKey(KeyCode.RightArrow)) && (Input.GetKey(KeyCode.A) || Input.GetKey(KeyCode.LeftArrow)))
         {
             animator.SetBool("direction", false);
         }
@@ -92,11 +92,11 @@ public class PlayerControls : MonoBehaviour
 
         if (active)
         {
-            if (Input.GetKey(KeyCode.D))
+            if (Input.GetKey(KeyCode.D) || Input.GetKey(KeyCode.RightArrow))
             {
                 velocity.x += horizontalAcceloration * Time.deltaTime;
             }
-            if (Input.GetKey(KeyCode.A))
+            if (Input.GetKey(KeyCode.A) || Input.GetKey(KeyCode.LeftArrow))
             {
                 velocity.x -= horizontalAcceloration * Time.deltaTime;
             }
