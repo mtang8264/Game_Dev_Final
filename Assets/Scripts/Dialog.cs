@@ -52,6 +52,8 @@ public class Dialog : MonoBehaviour
 
         if(active)
         {
+            GameObject.Find("Player").GetComponent<PlayerControls>().active = false;
+
             timer -= Time.deltaTime;
             if(timer <= 0)
             {
@@ -74,6 +76,7 @@ public class Dialog : MonoBehaviour
                     {
                         currentLine = 0;
                         active = false;
+                        GameObject.Find("Player").GetComponent<PlayerControls>().active = true;
                         return;
                     }
                 }

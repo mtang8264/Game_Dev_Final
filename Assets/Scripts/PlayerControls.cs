@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class PlayerControls : MonoBehaviour
 {
+    public bool active;
     public Vector2 velocity;
     [Header("PHYSICS")]
     public float horizontalAcceloration;
@@ -28,11 +29,13 @@ public class PlayerControls : MonoBehaviour
     {
         collider = GetComponent<Collider2D>();
         rb = GetComponent<Rigidbody2D>();
+
+        active = true;
     }
     
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.W) && grounded)
+        if (Input.GetKeyDown(KeyCode.W) && grounded && active)
             jumpFlag = true;
 
         if(Input.GetKey(KeyCode.D) && !Input.GetKey(KeyCode.A))
@@ -87,13 +90,16 @@ public class PlayerControls : MonoBehaviour
             velocity.y = 0;
         }
 
-        if (Input.GetKey(KeyCode.D))
+        if (active)
         {
-            velocity.x += horizontalAcceloration * Time.deltaTime;
-        }
-        if (Input.GetKey(KeyCode.A))
-        {
-            velocity.x -= horizontalAcceloration * Time.deltaTime;
+            if (Input.GetKey(KeyCode.D))
+            {
+                velocity.x += horizontalAcceloration * Time.deltaTime;
+            }
+            if (Input.GetKey(KeyCode.A))
+            {
+                velocity.x -= horizontalAcceloration * Time.deltaTime;
+            }
         }
 
         rb.MovePosition((Vector2)transform.position + velocity);
